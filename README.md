@@ -1,3 +1,3 @@
 # FM
-Factorization Machines
-support order > 2 and O(kn) time complexity when training. 
+Factorization Machines implemented in tensorflow.
+Support order > 2 and O(kn) time complexity when training. 
